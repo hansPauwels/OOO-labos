@@ -1,0 +1,4 @@
+[submodule "Labo2"]
+	path = Labo2
+	url = https://github.com/hansPauwels/Labo2.git
+	branch = master
